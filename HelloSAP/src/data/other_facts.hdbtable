@@ -1,4 +1,4 @@
-COLUMN TABLE "HelloSAP.HelloSAP:other_facts" 
+COLUMN TABLE "HelloSAP.HelloSAP.data::other_facts" 
 (
    "ID" INTEGER, 
    "SEASON" VARCHAR(4),
